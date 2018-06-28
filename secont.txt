@@ -3,9 +3,14 @@
   <body>
   Hello to Master School
   <input type="text" id="name" name="name" />
+<<<<<<< .merge_file_aO6n3z
   <input type="button" />
   <input type="button" value="Cancel" />
 
+=======
+
+  <div id="MainText">Text under controllers</div>
+>>>>>>> .merge_file_YU0M1Z
   </body>
 
 
