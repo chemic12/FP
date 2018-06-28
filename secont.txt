@@ -6,7 +6,12 @@
   <input type="button" value="Save" />
   <input type="button" value="Cancel" />
   <div id="MainText">Text under controllers</div>
+<<<<<<< HEAD
   <textarea>Type here...</textarea>
+=======
+
+  <footer>Down Menu</footer>
+>>>>>>> addFooter
   </body>
 
 
