@@ -4,7 +4,7 @@
   Hello to Master School
   <input type="text" id="name" name="name" />
 
-
+  <div id="MainText">Text under controllers</div>
   </body>
 
 
