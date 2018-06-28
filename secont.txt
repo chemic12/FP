@@ -1,5 +1,11 @@
 <html>
   <head></head>
-  <body>Hello to Master School</body>
+  <body>
+  Hello to Master School
+  <input type="text" id="name" name="name" />
+
+
+  </body>
+
 
 </html>
