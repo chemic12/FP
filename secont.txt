@@ -4,6 +4,7 @@
   Hello to Master School
   <input type="text" id="name" name="name" />
   <input type="button" />
+  <input type="button" value="Cancel" />
 
   </body>
 
